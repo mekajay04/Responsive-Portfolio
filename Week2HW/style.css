@@ -211,7 +211,7 @@ a:hover{
 	hr { margin-left: 0px;}
 }
 
-@media screen and (max-width: 440px) {
+@media screen and (max-device-width: 480px) {
     .container { width:auto; margin: 30px 0px 0px 0px; }
 	.containerp { width:auto; } /**Figure out why it's not moving**/
 	.contactcontainer { width: auto; margin: 30px 0px 0px 30px; }
