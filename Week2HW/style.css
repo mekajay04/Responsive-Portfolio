@@ -210,17 +210,6 @@ a:hover{
 	#links {width: auto; margin:30px 130px 0px 0px; }
 	hr { margin-left: 0px;}
 	html { background-color:#4aaaa5; }
-}
 
-@media screen and (max-device-width: 480px) {
-    .container { width: auto; margin: 0; }
-	.containerp { width: auto; } /**Figure out why it's not moving**/
-	.contactcontainer { width: auto; margin: 0; }
-    .contact { width: auto; margin: 0; float:none; }
-	#links {width: auto; margin:30px 130px 0px 0px; }
-	#footer { position: sticky; }
-	hr { margin-left: 0; }
-	h1 { margin-right: 0; }
-	html { background-color:#4aaaa5; font-size: 10px; }
 }
 /*RESPONSIVE*/
